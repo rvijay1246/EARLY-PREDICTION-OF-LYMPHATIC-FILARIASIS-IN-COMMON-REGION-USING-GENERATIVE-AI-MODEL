@@ -1,0 +1,2 @@
+# EARLY-PREDICTION-OF-LYMPHATIC-FILARIASIS-IN-COMMON-REGION-USING-GENERATIVE-AI-MODEL
+In this system, historical health data, environmental factors, and demographic information are used as input features. The dataset is preprocessed through data cleaning, normalization, and feature selection to improve the performance of the predictive model. The XGBoost and LightGBM models are trainetechniques to classify 
